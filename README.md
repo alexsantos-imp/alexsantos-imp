@@ -15,7 +15,7 @@
 
 ---
 
-## 💜 Sobre mim
+## 💭 Sobre mim
 
 - 🏢 Trabalho na **Visio.ai**
 - 🏬 Atuo no **Time de Implantação**
